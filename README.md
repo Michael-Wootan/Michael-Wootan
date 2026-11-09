@@ -35,7 +35,7 @@ All of the projects below ran in production for a live e-commerce business in 20
 
 ## What I work with
 
-**Platforms:** Shopify, MailerLite, HubSpot, Google Workspace, Cloudflare, GitHub Actions
+**Platforms:** Shopify, MailerLite, HubSpot, Google Workspace, Cloudflare, GitHub Actions, Apollo, Clay 
 **Integration:** REST and GraphQL APIs, webhooks, OAuth, scheduled jobs, LLM APIs (Claude, OpenAI, Gemini)
 **Languages:** Python, JavaScript / Node.js
 **Operations:** fulfillment and carrier workflows, SLA tracking, catalog management, customer support operations, B2B wholesale
