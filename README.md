@@ -66,6 +66,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [search-console-indexing](https://github.com/Michael-Wootan/search-console-indexing) | Automates Google Search Console indexing requests, status checks and not-indexed diagnosis within API quotas | Node.js, Google Search Console / Indexing API |
 | [shopify-seo-redirects](https://github.com/Michael-Wootan/shopify-seo-redirects) | Bulk URL redirects and noindex controls through the Shopify Admin API | Node.js, Shopify Admin API |
 | [shopify-theme-injectors](https://github.com/Michael-Wootan/shopify-theme-injectors) | Theme changes applied through the Asset API with timestamped backups and one-command revert | Node.js, Shopify Theme API, Liquid |
+| [keyword-opportunity-finder](https://github.com/Michael-Wootan/keyword-opportunity-finder) | Seed, competitor-gap and trending keyword discovery, scored by traffic potential over difficulty, deduplicated against the existing queue and routed by intent | Node.js, Ahrefs API, Google Sheets |
 
 ## What I work with
 
