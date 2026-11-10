@@ -67,6 +67,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [shopify-seo-redirects](https://github.com/Michael-Wootan/shopify-seo-redirects) | Bulk URL redirects and noindex controls through the Shopify Admin API | Node.js, Shopify Admin API |
 | [shopify-theme-injectors](https://github.com/Michael-Wootan/shopify-theme-injectors) | Theme changes applied through the Asset API with timestamped backups and one-command revert | Node.js, Shopify Theme API, Liquid |
 | [keyword-opportunity-finder](https://github.com/Michael-Wootan/keyword-opportunity-finder) | Seed, competitor-gap and trending keyword discovery, scored by traffic potential over difficulty, deduplicated against the existing queue and routed by intent | Node.js, Ahrefs API, Google Sheets |
+| [internal-link-graph](https://github.com/Michael-Wootan/internal-link-graph) | Maps the internal link graph, ranks money pages as link targets and injects links into existing posts | Node.js, Shopify Admin API |
 
 ## What I work with
 
