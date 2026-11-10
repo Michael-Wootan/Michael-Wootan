@@ -42,6 +42,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [weekly-exec-report](https://github.com/Michael-Wootan/weekly-exec-report) | Weekly executive brief: SEO and revenue data pulled from APIs, analyzed by Claude, delivered as an HTML email | Node.js, Ahrefs API, Shopify, Claude API |
 | [brand-mention-monitor](https://github.com/Michael-Wootan/brand-mention-monitor) | Scheduled scan of Reddit via the official API, summarized by Claude and emailed as a digest | Python, Reddit API, Claude API, GitHub Actions |
 | [competitor-product-gap-research](https://github.com/Michael-Wootan/competitor-product-gap-research) | Weekly crawl of competitor catalogs (20,000+ products), matched against the store's own catalog and the demand radar, delivered as a ranked gap report | Node.js, Shopify, Claude API |
+| [competitor-content-monitor](https://github.com/Michael-Wootan/competitor-content-monitor) | Weekly read of competitor sitemaps: pages published or updated in the last seven days, grouped by competitor in one email, with unreadable sitemaps named | Node.js, sitemap XML, GitHub Actions |
 
 ## Operations and customer experience
 
