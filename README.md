@@ -31,6 +31,7 @@ Every project below ran in production for a live business in 2026, most of them 
 |---|---|---|
 | [partner-prospecting](https://github.com/Michael-Wootan/partner-prospecting) | Builds a pool of sites from Ahrefs competitor link data, finds and validates a contact email on each, sends a personalized pitch and runs its own follow-up cycle with a 90-day cooldown | Node.js, Ahrefs API, Claude API, SMTP |
 | [competitor-link-prospecting](https://github.com/Michael-Wootan/competitor-link-prospecting) | Weekly discovery of sites that link to competitors, pitches drafted into a queue and sent in weekday batches. Discovery and sending run as separate modes to protect API quota | Node.js, Ahrefs API, Claude API, GitHub Actions |
+| [journalist-request-monitor](https://github.com/Michael-Wootan/journalist-request-monitor) | Scans journalist-request digests several times a day, picks the relevant queries and drafts a pitch for each | Node.js, IMAP, Claude API |
 
 ## Market and competitor intelligence
 
