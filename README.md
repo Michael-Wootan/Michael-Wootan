@@ -41,6 +41,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [market-demand-radar](https://github.com/Michael-Wootan/market-demand-radar) | Demand scan across 8 countries: product-intent keywords scored by volume and difficulty, year-over-year growth and momentum from volume history, all inside a hard API credit budget | Node.js, Ahrefs API |
 | [weekly-exec-report](https://github.com/Michael-Wootan/weekly-exec-report) | Weekly executive brief: SEO and revenue data pulled from APIs, analyzed by Claude, delivered as an HTML email | Node.js, Ahrefs API, Shopify, Claude API |
 | [brand-mention-monitor](https://github.com/Michael-Wootan/brand-mention-monitor) | Scheduled scan of Reddit via the official API, summarized by Claude and emailed as a digest | Python, Reddit API, Claude API, GitHub Actions |
+| [competitor-product-gap-research](https://github.com/Michael-Wootan/competitor-product-gap-research) | Weekly crawl of competitor catalogs (20,000+ products), matched against the store's own catalog and the demand radar, delivered as a ranked gap report | Node.js, Shopify, Claude API |
 
 ## Operations and customer experience
 
