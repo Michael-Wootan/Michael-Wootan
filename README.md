@@ -60,6 +60,7 @@ Every project below ran in production for a live business in 2026, most of them 
 |---|---|---|
 | [automation-health-monitor](https://github.com/Michael-Wootan/automation-health-monitor) | Daily report on every scheduled automation: reads GitHub Actions runs and logs and emails what ran, what failed, and what it did | Node.js, GitHub API, SMTP |
 | [outcome-health-check](https://github.com/Michael-Wootan/outcome-health-check) | Checks whether each automation is achieving its goal, not just exiting cleanly: ground truth from Shopify, Ahrefs, Gmail and GitHub Actions, a verdict per area, deltas against the last run and a top-five action list | Node.js, GitHub API, Shopify, Ahrefs, Claude API |
+| [search-console-monitor](https://github.com/Michael-Wootan/search-console-monitor) | Daily URL Inspection of a rotating sitemap batch: tracks pages Google has not indexed, separates expected from actionable by page type, noindexes thin collections and queues weak posts for rewriting. Companion to search-console-indexing | Node.js, Search Console API, Shopify Admin API |
 
 ## SEO and content tooling
 
