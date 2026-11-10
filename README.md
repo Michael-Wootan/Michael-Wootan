@@ -76,6 +76,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [meta-description-generator](https://github.com/Michael-Wootan/meta-description-generator) | Audits every product, collection, article and page and rewrites missing or badly sized meta descriptions from intent-based templates, keyword first, fitted to 140-160 characters. Audit mode, resumable, never overwrites good copy | Node.js, Shopify Admin API |
 | [shopify-faq-schema](https://github.com/Michael-Wootan/shopify-faq-schema) | Gives every product without FAQs a category-matched set of questions and answers as metaobjects, then renders them as FAQPage structured data through a theme snippet. Audit mode, resumable, never overwrites existing FAQs | Node.js, Shopify GraphQL Admin API, Liquid |
 | [shopify-image-seo](https://github.com/Michael-Wootan/shopify-image-seo) | Alt text for every product and blog image, anchored to each page's search keyword. Grades existing alt text first: good descriptions are kept, poor ones rewritten, off-topic ones merged with the keyword. Audit mode, resumable | Node.js, Shopify Admin API |
+| [broken-link-audit](https://github.com/Michael-Wootan/broken-link-audit) | Checks every outbound link in the blog, separates dead links from bot blocks, has Claude propose replacements, verifies each one is live before use, and applies them after review. Protects top-ranking posts | Node.js, Claude API, Shopify Admin API |
 
 ## What I work with
 
