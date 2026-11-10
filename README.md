@@ -49,6 +49,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [ai-support-agent](https://github.com/Michael-Wootan/ai-support-agent) | Chat widget and email-triage pipeline on Claude: identity-verified order lookup, tiered escalation, 16-category email classification, dry-run mode and a replay eval harness | Python, Cloudflare Workers, Claude API, Shopify, IMAP/SMTP |
 | [order-fulfillment-sync](https://github.com/Michael-Wootan/order-fulfillment-sync) | Shopify orders and carrier tracking into a shared ops sheet, with business-day SLA logic, an order state machine, exception alerts and a daily supplier email | Python, Shopify GraphQL, Google Sheets, USPS tracking |
 | [shopify-product-listing-pipeline](https://github.com/Michael-Wootan/shopify-product-listing-pipeline) | Git-driven catalog onboarding: a product spec committed to a folder becomes draft Shopify products with images, FAQs and collections, plus a summary email and a feedback loop | Node.js, Shopify Admin API, Gemini, GitHub Actions |
+| [shopify-sale-manager](https://github.com/Michael-Wootan/shopify-sale-manager) | Schedules back-to-back automatic discounts and marks compare-at prices across the catalog, with a price backup and one-command restore | Node.js, Shopify GraphQL and REST |
 
 ## Monitoring and reliability
 
