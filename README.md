@@ -55,6 +55,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | Project | What it does | Stack |
 |---|---|---|
 | [automation-health-monitor](https://github.com/Michael-Wootan/automation-health-monitor) | Daily report on every scheduled automation: reads GitHub Actions runs and logs and emails what ran, what failed, and what it did | Node.js, GitHub API, SMTP |
+| [outcome-health-check](https://github.com/Michael-Wootan/outcome-health-check) | Checks whether each automation is achieving its goal, not just exiting cleanly: ground truth from Shopify, Ahrefs, Gmail and GitHub Actions, a verdict per area, deltas against the last run and a top-five action list | Node.js, GitHub API, Shopify, Ahrefs, Claude API |
 
 ## SEO and content tooling
 
