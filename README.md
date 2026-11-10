@@ -6,7 +6,7 @@ I'm looking at **GTM engineering and solutions engineering** roles, where the jo
 
 Every project below ran in production for a live business in 2026, most of them on a schedule through GitHub Actions. Company names, customer data and product details have been replaced with placeholders.
 
-**Areas:** [GTM and outbound](#gtm-and-outbound-systems) · [Lifecycle email](#lifecycle-email) · [Market intelligence](#market-and-competitor-intelligence) · [Operations](#operations-and-customer-experience) · [Reliability](#monitoring-and-reliability) · [SEO and content](#seo-and-content-tooling)
+**Areas:** [GTM and outbound](#gtm-and-outbound-systems) · [Lifecycle email](#lifecycle-email) · [Partner and PR outreach](#partner-and-pr-outreach) · [Market intelligence](#market-and-competitor-intelligence) · [Operations](#operations-and-customer-experience) · [Reliability](#monitoring-and-reliability) · [SEO and content](#seo-and-content-tooling)
 
 ## GTM and outbound systems
 
@@ -24,6 +24,12 @@ Every project below ran in production for a live business in 2026, most of them 
 |---|---|---|
 | [ai-email-campaign-engine](https://github.com/Michael-Wootan/ai-email-campaign-engine) | Weekly campaigns built from store data, drafted in MailerLite, approved or held by email reply, with open and click stats fed back into the next run | Node.js, Claude API, MailerLite, Shopify, IMAP |
 | [ecommerce-contact-sync](https://github.com/Michael-Wootan/ecommerce-contact-sync) | Consent-filtered sync of Shopify customers into MailerLite groups, with an approval email before anything uploads | Node.js, Shopify, MailerLite, IMAP |
+
+## Partner and PR outreach
+
+| Project | What it does | Stack |
+|---|---|---|
+| [partner-prospecting](https://github.com/Michael-Wootan/partner-prospecting) | Builds a pool of sites from Ahrefs competitor link data, finds and validates a contact email on each, sends a personalized pitch and runs its own follow-up cycle with a 90-day cooldown | Node.js, Ahrefs API, Claude API, SMTP |
 
 ## Market and competitor intelligence
 
