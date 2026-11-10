@@ -72,6 +72,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [keyword-opportunity-finder](https://github.com/Michael-Wootan/keyword-opportunity-finder) | Seed, competitor-gap and trending keyword discovery, scored by traffic potential over difficulty, deduplicated against the existing queue and routed by intent | Node.js, Ahrefs API, Google Sheets |
 | [internal-link-graph](https://github.com/Michael-Wootan/internal-link-graph) | Maps the internal link graph, ranks money pages as link targets and injects links into existing posts | Node.js, Shopify Admin API |
 | [blog-cta-injector](https://github.com/Michael-Wootan/blog-cta-injector) | Adds a product card after the first paragraph of blog posts that get buying-intent traffic but link to no product. Dry run by default, per-post backup, marker-wrapped and fully reversible | Node.js, Shopify Admin API |
+| [meta-description-generator](https://github.com/Michael-Wootan/meta-description-generator) | Audits every product, collection, article and page and rewrites missing or badly sized meta descriptions from intent-based templates, keyword first, fitted to 140-160 characters. Audit mode, resumable, never overwrites good copy | Node.js, Shopify Admin API |
 
 ## What I work with
 
