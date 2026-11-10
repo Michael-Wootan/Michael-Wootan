@@ -33,6 +33,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [competitor-link-prospecting](https://github.com/Michael-Wootan/competitor-link-prospecting) | Weekly discovery of sites that link to competitors, pitches drafted into a queue and sent in weekday batches. Discovery and sending run as separate modes to protect API quota | Node.js, Ahrefs API, Claude API, GitHub Actions |
 | [journalist-request-monitor](https://github.com/Michael-Wootan/journalist-request-monitor) | Scans journalist-request digests several times a day, picks the relevant queries and drafts a pitch for each | Node.js, IMAP, Claude API |
 | [link-reclamation](https://github.com/Michael-Wootan/link-reclamation) | Finds broken backlinks, lost links and unlinked brand mentions, then drafts the fix email for each | Node.js, Ahrefs API, Claude API |
+| [directory-submissions](https://github.com/Michael-Wootan/directory-submissions) | Weekly directory prospector: discovers directories with free listings, tracks each target from to-do to live, verifies listings by re-reading the page, pitches email-only targets once, and queues what needs a person with the reason | Node.js, Claude API, Playwright (optional), SMTP |
 
 ## Market and competitor intelligence
 
