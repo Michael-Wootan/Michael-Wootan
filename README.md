@@ -74,6 +74,7 @@ Every project below ran in production for a live business in 2026, most of them 
 | [internal-link-graph](https://github.com/Michael-Wootan/internal-link-graph) | Maps the internal link graph, ranks money pages as link targets and injects links into existing posts | Node.js, Shopify Admin API |
 | [blog-cta-injector](https://github.com/Michael-Wootan/blog-cta-injector) | Adds a product card after the first paragraph of blog posts that get buying-intent traffic but link to no product. Dry run by default, per-post backup, marker-wrapped and fully reversible | Node.js, Shopify Admin API |
 | [meta-description-generator](https://github.com/Michael-Wootan/meta-description-generator) | Audits every product, collection, article and page and rewrites missing or badly sized meta descriptions from intent-based templates, keyword first, fitted to 140-160 characters. Audit mode, resumable, never overwrites good copy | Node.js, Shopify Admin API |
+| [shopify-faq-schema](https://github.com/Michael-Wootan/shopify-faq-schema) | Gives every product without FAQs a category-matched set of questions and answers as metaobjects, then renders them as FAQPage structured data through a theme snippet. Audit mode, resumable, never overwrites existing FAQs | Node.js, Shopify GraphQL Admin API, Liquid |
 
 ## What I work with
 
